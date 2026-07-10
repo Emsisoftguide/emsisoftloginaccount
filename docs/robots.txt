@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://emsisoftloginaccount.readthedocs.io/en/latest/
